@@ -82,6 +82,13 @@ Certain libraries are required for proper functioning of the microcontroller and
 - [ESP32](https://github.com/espressif/arduino-esp32/tree/master/libraries/ESP32)
 - [Wi-Fi](https://github.com/espressif/arduino-esp32/tree/master/libraries/WiFi)
 - [DHT](https://github.com/adafruit/DHT-sensor-library)
+- [Tools](https://github.com/espressif/arduino-esp32/tree/master/tools)
 - [Adafruit_SSD1306](https://github.com/adafruit/Adafruit_SSD1306)
 - [Adafruit_GFX](https://github.com/adafruit/Adafruit-GFX-Library)
-- [Tools](https://github.com/espressif/arduino-esp32/tree/master/tools)
+## Creator
+
+**Shivam Ojha**
+
+<a href="[https://www.linkedin.com/in/shivam-ojha-58789222a/]"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white.svg"/></a>
+
+
