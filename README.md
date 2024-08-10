@@ -61,3 +61,27 @@ When we think of home automation we generally visualize switching on/off some bu
 
 -	**AMAZON ALEXA:** Alexa Voice Service is the intelligent voice control service that powers the device, Amazon Echo. Alexa uses natural language processing techniques trained by the developers. The voice service can be triggered using the keyword “Alexa”. As mentioned earlier, the skill/application that I have developed can be triggered using the voice command, “Alexa, Turn the lights on”. Once Alexa is triggered, it runs a script on the cloud, which in-turn runs a subroutine on an ESP 32 to Switch on the light. Once computation is done in the ESP 32, it sends the confirmation back to Alexa. Only the essential information is sent to Alexa which passes it on back to the user
 
+  -	### Schematic
+
+Components can be assembled and connected as shown in the schematic.
+
+<p align="center">
+	<img src="https://github.com/parikshitpagare/smart-home-automation-rtos/assets/80714882/7b1ebb97-7876-485a-b43b-686890d2b0f5" width="80%" height="80%">
+</p>
+
+### How to connect ESP32 with Arduino IDE?
+
+- Download and install the Arduino IDE
+- Install the ESP32 Library at `File -> Preference -> Additional Boards Manager URLs:` https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+- Then in the `Tools -> Board Manager` -> search for ESP32 and install
+
+### Libraries 
+
+Certain libraries are required for proper functioning of the microcontroller and interfaced components.
+
+- [Bluetooth Serial](https://github.com/espressif/arduino-esp32/tree/master/libraries/BluetoothSerial)
+- [Wire](https://github.com/esp8266/Arduino/blob/master/libraries/Wire/)
+- [DHT](https://github.com/adafruit/DHT-sensor-library)
+- [Adafruit_SSD1306](https://github.com/adafruit/Adafruit_SSD1306)
+- [Adafruit_GFX](https://github.com/adafruit/Adafruit-GFX-Library)
+- [Ticker](https://github.com/espressif/arduino-esp32/tree/master/libraries/Ticker)
