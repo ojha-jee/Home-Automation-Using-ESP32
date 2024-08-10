@@ -79,9 +79,9 @@ Components can be assembled and connected as shown in the schematic.
 
 Certain libraries are required for proper functioning of the microcontroller and interfaced components.
 
-- [Bluetooth Serial]((https://github.com/espressif/arduino-esp32/tree/master/libraries/ESP32))
-- [Wire](https://github.com/esp8266/Arduino/blob/master/libraries/Wire/)
+- [ESP32](https://github.com/espressif/arduino-esp32/tree/master/libraries/ESP32)
+- [Wi-Fi](https://github.com/espressif/arduino-esp32/tree/master/libraries/WiFi)
 - [DHT](https://github.com/adafruit/DHT-sensor-library)
 - [Adafruit_SSD1306](https://github.com/adafruit/Adafruit_SSD1306)
 - [Adafruit_GFX](https://github.com/adafruit/Adafruit-GFX-Library)
-- [Ticker](https://github.com/espressif/arduino-esp32/tree/master/libraries/Ticker)
+- [Tools](https://github.com/espressif/arduino-esp32/tree/master/tools)
