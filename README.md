@@ -1,3 +1,21 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/80714882/234116124-5bbd7e92-5432-42f2-bb0e-574ed005aee8.png" width="75%" height="75%">
+</p>
+
+
+<p align="center">
+   <img src="https://img.shields.io/badge/ESPRESSIF-ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" >
+   <img src="https://img.shields.io/badge/FreeRTOS-4bbb4f?style=for-the-badge">
+   <img src="https://img.shields.io/badge/LICENSE-MIT-green?style=for-the-badge" >
+</p>
+
+
+
+
+
+
+
+
 # Home-Automation-Using-ESP32
 Welcome to my Home Automation project using ESP32! This repository contains the code and documentation for building a fully-connected smart home system. With this project, you'll be able to control your home appliances using a smartphone or computer, as well as manual buttons.
 ESP32 based 4 Channel IOT Home Automation using ESPRAINMAKER Application. Can be controlled using Physical switch as well as virtual buttons on the ESPRAINMAKER app. Works with or without internet connection using Manual Switches and WiFi connectivity with real time device status on the app.
