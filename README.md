@@ -89,6 +89,6 @@ Certain libraries are required for proper functioning of the microcontroller and
 
 **Shivam Ojha**
 
-<a href="[https://www.linkedin.com/in/shivam-ojha-58789222a/]"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white.svg"/></a>
+<a href="https://www.linkedin.com/in/shivam-ojha-58789222a/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white.svg"/></a>
 
 
