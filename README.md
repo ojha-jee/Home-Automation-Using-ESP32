@@ -79,7 +79,7 @@ Components can be assembled and connected as shown in the schematic.
 
 Certain libraries are required for proper functioning of the microcontroller and interfaced components.
 
-- [Bluetooth Serial](https://github.com/espressif/arduino-esp32/tree/master/libraries/BluetoothSerial)
+- [Bluetooth Serial]((https://github.com/espressif/arduino-esp32/tree/master/libraries/ESP32))
 - [Wire](https://github.com/esp8266/Arduino/blob/master/libraries/Wire/)
 - [DHT](https://github.com/adafruit/DHT-sensor-library)
 - [Adafruit_SSD1306](https://github.com/adafruit/Adafruit_SSD1306)
