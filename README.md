@@ -66,7 +66,7 @@ When we think of home automation we generally visualize switching on/off some bu
 Components can be assembled and connected as shown in the schematic.
 
 <p align="center">
-	<img src="https://github.com/parikshitpagare/smart-home-automation-rtos/assets/80714882/7b1ebb97-7876-485a-b43b-686890d2b0f5" width="80%" height="80%">
+	<img src="https://github.com/ojha-jee/Home-Automation-Using-ESP32/blob/main/project/4%20Channel-5V-Relay-Module-Schematic.png" width="80%" height="80%">
 </p>
 
 ### How to connect ESP32 with Arduino IDE?
